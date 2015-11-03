@@ -14,8 +14,8 @@ int main()
     // Some fundamental types that we will use
     // ==============================
 
-    std::cout << "Some fundamental types: " << std::endl;
-    std::cout << std::endl;
+    //std::cout << "Some fundamental types: " << std::endl;
+    //std::cout << std::endl;
 
     int integerValue{42};
     std::cout << "integerValue = " << integerValue << std::endl;
